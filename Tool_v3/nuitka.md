@@ -1,0 +1,1 @@
+python -m nuitka --standalone --mingw64 --windows-icon-from-ico=toolbox\images\tool-box.ico --windows-console-mode=disable main.py
